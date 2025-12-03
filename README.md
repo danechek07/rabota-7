@@ -28,7 +28,7 @@
 
 ### Блок-схема
 
-<img width="501" height="1101" alt="DZ7" src="https://github.com/user-attachments/assets/61b28cba-78aa-481d-aa59-f38080196216" />
+<img width="350" height="1093" alt="DZ7" src="https://github.com/user-attachments/assets/8cdbb80f-7786-45fa-b5fd-d54d575a8cb9" />
 
 
 [DZ7.drawio](https://github.com/danechek07/rabota-7/blob/main/DZ7.png)
